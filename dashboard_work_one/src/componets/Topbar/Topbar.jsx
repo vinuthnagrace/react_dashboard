@@ -21,7 +21,7 @@ export default function Topbar() {
         <div className="topbarIconsContainer">
         <Settings />
         </div>
-        <img src="./profile.jpg" alt="" className="topAvatar" />
+        <img src="https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" className="topAvatar" />
         </div>
         </div>
         </div>
